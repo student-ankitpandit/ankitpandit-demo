@@ -1,4 +1,4 @@
 # ankitpandit
 This is my first Git Repository
-<br>
-Author - Ankit Pandit
+<be>
+The git journey begins with this repo
