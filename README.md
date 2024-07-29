@@ -1,4 +1,4 @@
-# ankitpandit-demo
+# ankitpandit
 This is my first Git Repository
 <br>
-Author - ankit pandit
+Author - Ankit Pandit
